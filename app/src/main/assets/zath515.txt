@@ -1,0 +1,10 @@
+0|multiple|Cochez la ou les phrase(s) incorrecte(s).|Marc et Marie-Claude est parisiens.|Nous habitons à San Francisco.|Tu voyages souvent en Europe?|Tu parle espagnol?
+1|single|Completez la phrase: Moi, je vais prendre ... thé vert.|un|une|des|autre
+2|single|Completez la phrase: Caroline va prendre ... limonade.|un|une|des|autre
+3|multiple|Cochez la ou les phrase(s) incorrecte(s).|Nous sont etudiants.|Je suis dans la classe de français.|Tu est américain?|Caroline préfère le café.
+4|single|Completez la phrase: ... regardent la télé. (Stéphanie et Marie)|Elles|Nous|Il|Je
+5|single|Completez la phrase: Dimanche, ... sont à la maison. (John et Kareem)|Ils|vous|ils|elle
+6|single|Completez la phrase: ... mangez au restaurant. (toi et Michel)|Nous|Je|Ils|Vous
+7|single|Choisir le nom de profession approprié. Nous travaillons pour le gouvernement. Nous sommes ... |infirmières|medicin|fonctionnaires|journalistes
+8|single|Choisir le nom de profession approprié. Vous étudiez le français. Vous êtes ... |avocate|étudiant|infirmières|ébéniste
+9|multiple|Cochez la ou les phrase(s) incorrecte(s).|Je vas courir.|Nous pouvons aller à la plage.|Elle aime manger du chocolat.|Aimons-vous nager?

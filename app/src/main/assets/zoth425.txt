@@ -1,0 +1,10 @@
+0|multiple|Complétez la phrase: La mère de mon père est ma …|tante|soeur|grand-mère|oncle
+1|single|Complétez la phrase: Nous avons des amis. Ce sont … amis|tes|nos|mes|leurs
+2|multiple|Une femme qui habite à Montréal est une:|Français|Italienne|Montréalaise|Québécoise
+3|single|Complétez la phrase: …… est-ce que Victor habite? Victor habite à Montréal.|Pourquoi|Où|Que|Comment
+4|multiple|Cochez la ou les phrase(s) incorrecte(s).|10 + 17 = Dix-sept|70 - 1 = Soixante-neuf|Quarante moins deux = 42|35 + 5 = Quarante
+5|single|Que veut dire l’expression québécoise “cogner des clous“ ?|Construire une maison|Être content|Être fatigué|Avoir faim
+6|single|Complétez la phrase: C’est la classe des étudiants. C'est…… classe.|sa|ton|tes|leur
+7|single|Quelle est le résultat de l'addition suivante: 49 + 1 =|Trente|Cinquante|Quarante|Dix
+8|single|Que veut dire l’expression québécoise "avoir la broue dans le toupet“ ?|Être occupé|Être malade|Être fâché|Avoir faim
+9|multiple|Cochez la ou les phrase(s) incorrecte(s).|La fille de ma mère est ma frère.|La soeur de mon père est ma tante.|Le conjoint de ma mère est ma belle-mère.|La fille de ma tante est ma cousin.
